@@ -1,0 +1,38 @@
+.membre_imgD img{
+    width: 10%;
+    height: 10%;
+}
+.membre_imgY img{
+    width: 150px;
+    height: 150px;
+}
+.membre_imgR img{
+    width: 150px;
+    height: 150px;
+}
+.membre_imgJ img{
+    width: 150px;
+    height: 150px;
+}
+
+.membre h2{
+    color: #AC4501;
+}
+.membre h3{
+    color: #4C4C4C;
+}
+.bauf{
+    justify-content: center;
+    font-weight: bolder;
+    color: #AC4501;
+    border: inset;
+    background-color: #d9ceec;
+    width: 70%;
+    display: flex;
+    margin: auto;
+}
+#qui img{
+    width: 70%;
+    height: 250px;
+
+}

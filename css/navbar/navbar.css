@@ -24,17 +24,20 @@ header #header {
   display: flex;
   flex-direction: row;
   align-items: center;
-  height: auto; }
+  height: auto;
+}
 
 header #header nav {
   margin-right: 40px;
-  height: 50px; }
+  height: 50px;
+}
 
 header #header nav ul {
   list-style: none;
   display: flex;
   flex-direction: row;
-  margin: 0; }
+  margin: 0;
+}
 
 header #header nav ul a {
   text-decoration: none;
@@ -42,17 +45,21 @@ header #header nav ul a {
   padding-right: 20px;
   height: 50px;
   line-height: 50px;
-  color: #4C4C4C; }
+  color: #4C4C4C;
+}
 
 header #header nav ul a:hover {
   background-color: #d9ceec;
   border-radius: 5%;
-  color: #FF8000; }
+  color: #FF8000;
+}
 
 header #header nav ul a:hover .navtext {
-  color: #AC4501; }
+  color: #AC4501;
+}
 
 header #header nav ul a .navtext {
-  color: #AC4501; }
+  color: #AC4501;
+}
 
 

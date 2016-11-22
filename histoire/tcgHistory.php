@@ -15,13 +15,13 @@
         <nav>
             <ul>
                 <a href="../index.php">
-                    <li class="animated fadeIn"><span class="navtext">H</span>istoire de <span class="navtext">B</span>AUF</li>
+                    <li class="animated fadeIn"><span class="navtext">H</span>istoire des <span class="navtext">B</span>AUF</li>
                 </a>
                 <a href="histoire.php">
                     <li class="animated fadeIn"><span class="navtext">H</span>istoire des <span class="navtext">H</span>éros </li>
                 </a>
                <a href="..">
-                   <li class="animated fadeIn"><span class="navtext">H</span>ishtoire des <span class="navtext">T</span>CG </li>
+                   <li class="animated fadeIn"><span class="navtext">H</span>istoire des <span class="navtext">T</span>CG </li>
                </a>
             </ul>
         </nav>
